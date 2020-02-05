@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wda_monitor", "wda_monitor\wda_monitor.vcxproj", "{F8CD68DB-5BF7-4921-AB55-5550284140A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CD68DB-5BF7-4921-AB55-5550284140A9}.Release|x64.ActiveCfg = Release|x64
+		{F8CD68DB-5BF7-4921-AB55-5550284140A9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33EEEA2-05DC-453A-8869-22D590C09548}
+	EndGlobalSection
+EndGlobal
